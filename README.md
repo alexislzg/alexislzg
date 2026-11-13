@@ -2,9 +2,7 @@
 
 **Estudiante de Ingeniería en Telemática | Desarrollador IoT, Web & Backend**
 
-Me especializo en el ciclo de vida completo de los datos: desde la captura en dispositivos de hardware mediante sensores y microcontroladores, hasta su procesamiento en servidores backend y su visualización en aplicaciones móviles o plataformas web. 
-
-Actualmente estoy en búsqueda de mis prácticas profesionales y me enfoco en construir arquitecturas tecnológicas integrales.
+Me especializo en el ciclo de vida completo de los datos: desde la captura en dispositivos de hardware mediante sensores y microcontroladores, hasta su procesamiento en servidores backend y su visualización en aplicaciones móviles o plataformas web. Me apasiona construir arquitecturas tecnológicas integrales y escalables.
 
 ---
 
@@ -16,11 +14,12 @@ Actualmente estoy en búsqueda de mis prácticas profesionales y me enfoco en co
 ![LoRaWAN](https://img.shields.io/badge/LoRaWAN-2D3186?style=for-the-badge)
 ![MQTT](https://img.shields.io/badge/MQTT-3C5280?style=for-the-badge&logo=mqtt&logoColor=white)
 
-**Backend & Bases de Datos**
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+**Lenguajes & Backend**
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
 **Frontend & Móvil**
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
